@@ -2,7 +2,7 @@
 The repository is demonstrate the project I did and doesn't include code
 
 <video width="320" height="240" controls>
-  <source src="video.mp4" type="video/mp4">
+  <source src="Promotional%20Video.mp4" type="video/mp4">
 </video>
 
 ![Promoational Video](https://github.com/TalhaSheikh-dev/Face-Mask-app/blob/main/Promotional%20Video.mp4)
