@@ -1,5 +1,5 @@
 # Face-Mask-app
-The repository is demonstrate the project I did and doesn't include code
+The repository is just to demonstrate the project I did and doesn't include code
 
 
 ![Promoational Video](Promotional%20Video.mp4)
