@@ -2,7 +2,7 @@
 The repository is just to demonstrate the project I did and doesn't include code
 
 
-![Promoational Video](Promotional%20Video.mp4)
+![Promoational Video](https://github.com/TalhaSheikh-dev/Face-Mask-app/blob/main/Promotional_Video.gif.)
 
 # input image
 ![](https://github.com/TalhaSheikh-dev/Face-Mask-app/blob/main/input.png)
